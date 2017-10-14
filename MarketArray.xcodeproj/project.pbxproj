@@ -15,6 +15,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		C40364F21F91F69C00E1F200 /* logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = logo.png; sourceTree = "<group>"; };
+		C40364F31F91FE5800E1F200 /* if_AccountingAuditor_6_2175892.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = if_AccountingAuditor_6_2175892.png; sourceTree = "<group>"; };
 		C46EB6851F91F3710075A9C4 /* MarketArray.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MarketArray.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C46EB6881F91F3710075A9C4 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C46EB68A1F91F3710075A9C4 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -55,6 +57,8 @@
 			isa = PBXGroup;
 			children = (
 				C46EB6881F91F3710075A9C4 /* AppDelegate.swift */,
+				C40364F31F91FE5800E1F200 /* if_AccountingAuditor_6_2175892.png */,
+				C40364F21F91F69C00E1F200 /* logo.png */,
 				C46EB68A1F91F3710075A9C4 /* ViewController.swift */,
 				C46EB68C1F91F3710075A9C4 /* Main.storyboard */,
 				C46EB68F1F91F3710075A9C4 /* Assets.xcassets */,
